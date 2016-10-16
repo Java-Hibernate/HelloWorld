@@ -31,7 +31,7 @@ public class HibernateApp {
     
     public static void main(String[] args){
         // -1- Add User to Table
-        registerNewUser("testUser1" , "testPassword1" , "testMail1@test.com");
+        registerNewUser("kemalsamikaraca" , "java-developer" , "kskaraca@gmail.com");
             
         // -2- Close Connection
         HibernateUtil.shutdown();    
